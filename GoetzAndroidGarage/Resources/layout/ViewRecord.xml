@@ -1,0 +1,33 @@
+﻿
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:orientation="vertical">
+    <TextView
+        android:text="Record Viewer"
+        android:gravity="center_horizontal"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtViewRecord" />
+    <Spinner
+        android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Names"
+                android:layout_marginTop="4dp"
+       
+    />
+    <Button
+        android:text="Confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnConfirm" />
+    
+   
+   
+</LinearLayout>
