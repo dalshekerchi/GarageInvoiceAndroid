@@ -4,7 +4,7 @@ GarageInvoice Mobile is an android app that is to be made as an extension of the
 The app made using Xamarin uses an online database on phpMyAdmin, a portable database, where all the new and existing data can be found. It connects to the program using the IP address of the network that can be manually inputted. The app uses MySql queries to access the data needed from the database. 
 
 GarageInvoice Mobile allows users to perform the same functionality on a desktop. 
-github.com/dalshekerchi/GarageInvoice
+Desktop Version: github.com/dalshekerchi/GarageInvoice
 
 
 
