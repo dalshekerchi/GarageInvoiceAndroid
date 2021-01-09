@@ -1,7 +1,10 @@
 # GarageInvoiceAndroid
-Garage Invoice Mobile is an android app that is to be made as an extension of the base program as a point to access the desktop database. The app will have multiple pages for better organization of tasks and easy navigation. The mobile app allows to add new invoices, read past invoices, and print invoices. This will be done over the local network for the connection back to the main program on the desktop application.
+GarageInvoice Mobile is an android app that is to be made as an extension of the base program as a point to access the desktop database. The app has multiple pages for better organization of tasks and easy navigation. The mobile app allows us to add new invoices, read past ones, and print them. This will be done over the local network for the connection back to the main program on the desktop application.
 
-The app made using Xamarin uses an online database on phpMyAdmin, a portable database, where all the new and existing data can be found. It connects to the program using the IP address of the network that can be manually inputted. The app uses MySql queries to access the data needed from the database.
+The app made using Xamarin uses an online database on phpMyAdmin, a portable database, where all the new and existing data can be found. It connects to the program using the IP address of the network that can be manually inputted. The app uses MySql queries to access the data needed from the database. 
+
+GarageInvoice Mobile allows users to perform the same functionality on a desktop. 
+github.com/dalshekerchi/GarageInvoice
 
 
 
